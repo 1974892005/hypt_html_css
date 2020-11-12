@@ -1,0 +1,39 @@
+/* 
+ * index css style 
+ * time:2020.11.11
+ * (c) Copyright 2020 hzb. All Rights Reserved. 
+ * */
+h1{
+	text-align: center;
+	color: pink;
+	text-shadow: 2px 2px 3px #f08080;
+}
+body{
+	color: brown;
+	line-height: 2em;
+}
+nav{
+	text-align: right;
+	color: blue;
+}
+h2{
+	color: #FFC0CB;
+	text-align: center;
+}
+h3{
+	color: blue;
+	text-align: center;
+}
+h4{
+	color: orange;
+	letter-spacing: 1em;
+	text-decoration:underline;
+}
+main p{
+	text-indent: 2em;
+	line-height: 1em;
+}
+footer p{
+	text-align: center;
+}
+
