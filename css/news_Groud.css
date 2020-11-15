@@ -1,0 +1,37 @@
+/*news_Groud*/
+h1{
+	text-align: center;
+	color: green;
+	text-shadow: 3px 3px 4px pink;
+	letter-spacing: 10px;
+}
+nav{
+	text-align: right;
+}
+news{
+	line-height: 2em;
+}
+newal p{
+	color: #008000;
+}
+news p{
+	color: red;
+	text-align: left;
+}
+ul li{
+	list-style-image: url('../img/images/icon1.png');
+	text-indent: 2em;
+	color:pink ;
+}
+ul li span{
+	color: #d3d3d3;
+}
+ol li{
+	color: #F08080;
+	text-indent: 2em;
+}
+footer{
+	text-align: center;
+	line-height: 30px;
+	font-size: 14px;
+}
